@@ -1,4 +1,4 @@
-# SapiensPlayground
+# SugarLand
 AI powered Sugarscape
 
 ## 什么是糖域
